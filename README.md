@@ -130,7 +130,7 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
     
-<h2><span class="yellow">花壇のお花達の映像のみ掲載しました</span></h2>
+<h2><span class="yellow">公園のお花達の映像のみ掲載しました</span></h2>
 <a href="20250420_001.JPG" target="_blank"><img src="20250420_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250420_002.JPG" target="_blank"><img src="20250420_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250420_003.JPG" target="_blank"><img src="20250420_003.JPG" alt="サンプル画像" width="900" /></a>
